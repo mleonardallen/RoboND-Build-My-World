@@ -1,3 +1,3 @@
-# RoboND-Build-My-World
+# RoboND Build My World
 
 ![World](images/world.png)
